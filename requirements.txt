@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pika              
+httpx
+python-jose       
+passlib[bcrypt]   
+requests
+sqlalchemy
+pydantic
+pydantic-settings
